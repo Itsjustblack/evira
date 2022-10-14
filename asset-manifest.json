@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/evira/static/css/main.ecae896e.css",
+    "main.js": "/evira/static/js/main.0c73857d.js",
+    "static/media/Unsplash Pic 3.jpg": "/evira/static/media/Unsplash Pic 3.3a9651f41907463c55c7.jpg",
+    "static/media/avatar-rizky-hasanuddin.webp": "/evira/static/media/avatar-rizky-hasanuddin.2c9e9a5d4982e8f1b614.webp",
+    "index.html": "/evira/index.html",
+    "main.ecae896e.css.map": "/evira/static/css/main.ecae896e.css.map",
+    "main.0c73857d.js.map": "/evira/static/js/main.0c73857d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecae896e.css",
+    "static/js/main.0c73857d.js"
+  ]
+}
